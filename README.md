@@ -1,0 +1,2 @@
+# Meme-Generator
+A guided React project developed using class-based components to build a simple meme generator. It allows users to enter text and automatically places it on a randomly selected meme template, helping me understand component structure, state handling, and basic UI interactions in React.
