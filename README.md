@@ -1,5 +1,57 @@
-A guided React project developed using class-based components to build a simple meme generator. It allows users to enter text and automatically places it on a randomly selected meme template, helping me understand component structure, state handling, and basic UI interactions in React.
+# 🎭 Meme Generator – React App
 
-1. Give ur ingredient that u have with u. 
-2. Recipe will be served for ur ingredients.
-   
+A guided **React project built using class-based components** that allows users to create memes by entering custom text and applying it to randomly selected meme templates. This project helps in understanding **component structure, state management, and UI interactions** in React.
+
+---
+
+## 🚀 Project Overview
+
+This Meme Generator app works in a simple and fun way:
+
+1. **Give your ingredients** – Enter top and bottom text (your ideas).
+2. **Recipe is served** – The app automatically places your text on a randomly selected meme image.
+
+It turns your words into a meme instantly 😄
+
+---
+
+## 🛠️ Features
+
+- 🎲 Random meme image generator  
+- ✏️ Custom top & bottom text input  
+- 🔄 Real-time meme preview  
+- 🧠 Uses React class-based components  
+- ⚡ State handling for dynamic UI updates  
+
+---
+
+## 🧩 Technologies Used
+
+- React (Class Components)
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 🧪 What I Learned
+
+- React component structure  
+- Managing state using `this.state` and `setState()`  
+- Handling user input  
+- Updating UI dynamically  
+- Working with external data (meme images)
+
+---
+
+## 📸 How It Works
+
+1. User enters meme text.
+2. User clicks the **Generate Meme** button.
+3. A random meme template is selected.
+4. The entered text is placed on the meme.
+
+---
+
+## 🖥️ How to Run
+
