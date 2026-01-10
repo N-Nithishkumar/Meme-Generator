@@ -71,7 +71,7 @@ Open your browser and go to:
 
 ## 👨‍💻 Author
 
-**Nithish**  
+**Nithish Kumar N**  
 React Learner | Web Developer | Creative Coder  
 
 ---
