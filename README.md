@@ -55,3 +55,27 @@ It turns your words into a meme instantly 😄
 
 ## 🖥️ How to Run
 
+Open your browser and go to:  
+`http://localhost:3000`
+
+---
+
+## 📌 Future Enhancements
+
+- Download generated memes  
+- Add font size & color options  
+- Save memes to gallery  
+- Mobile-friendly UI  
+
+---
+
+## 👨‍💻 Author
+
+**Nithish**  
+React Learner | Web Developer | Creative Coder  
+
+---
+
+⭐ If you like this project, give it a star on GitHub!
+
+
