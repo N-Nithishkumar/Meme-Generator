@@ -10,7 +10,7 @@ This Meme Generator app works in a simple and fun way:
 
 1. **Give your ingredients** – Enter top and bottom text (your ideas).
 2. **Recipe is served** – The app automatically places your text on a randomly selected meme image.
-
+ 
 It turns your words into a meme instantly 😄
 
 ---
