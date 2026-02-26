@@ -34,7 +34,7 @@ It turns your words into a meme instantly 😄
 
 ---
 
-## 🧪 What I Learned
+## 🧪 What I Learned-
 
 - React component structure  
 - Managing state using `this.state` and `setState()`  
